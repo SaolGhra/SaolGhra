@@ -60,12 +60,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-<img alt="github-snake" src="https://github.com/SaolGhra/SaolGhra/blob/main/assets/snake.svg" />
+<img src="https://raw.githubusercontent.com/SaolGhra/SaolGhra/output/snake.svg" alt="Snake animation" />
 
 ###
