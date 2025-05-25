@@ -98,9 +98,16 @@ I'm a junior software engineer with a passion for backend development and a spec
 
 ---
 
+## 📚 What I'm Learning
+
+- **Rust**  
+  I'm currently learning Rust and exploring its ecosystem. Rust is known for its memory safety, fearless concurrency, and zero-cost abstractions. It's a solid choice for systems programming, and it can run fast without sacrificing safety. I think picking up Rust is a great way to get more comfortable with lower-level programming, and it's also seeing a lot of adoption in backend, DevOps, and even web assembly projects. Plus, it has a really friendly and helpful community.
+
+---
+
 ## 🛠️ Beyond the Code
 
-I'm pretty into homelab and server tinkering, always experimenting, optimizing, and automating things at home.
+I'm pretty into homelab and server tinkering, always experimenting, optimizing, and automating things at home. I also like to hit the gym regularly.
 
 ---
 
