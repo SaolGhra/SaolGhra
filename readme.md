@@ -107,7 +107,7 @@ I'm a junior software engineer with a passion for backend development and a spec
 
 ## 🛠️ Beyond the Code
 
-I'm pretty into homelab and server tinkering, always experimenting, optimizing, and automating things at home. I also like to hit the gym regularly.
+I'm pretty into homelab and server tinkering, always experimenting, optimizing, and automating things at home.
 
 ---
 
