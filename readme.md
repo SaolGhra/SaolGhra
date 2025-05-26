@@ -1,6 +1,6 @@
 <!-- Profile README for SaolGhra -->
 
-<h1 align="center">Hey there, I'm SaolGhra 👋</h1>
+<h1 align="center">Hey there, I'm Spencer 👋</h1>
 
 <p align="center">
   <b>Junior Software Engineer | Java Specialist | Backend Developer | Homelab Tinkerer</b>
