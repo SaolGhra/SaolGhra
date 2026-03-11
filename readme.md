@@ -28,6 +28,7 @@ Java · Go · Python · JavaScript · PHP · C# · Bash · Spring · Docker · L
 | Project | What it is |
 |---|---|
 | [VantaSpec](https://vantaspec.com) | PC hardware price comparison & spec platform |
-| [FloatWeb](https://floatweb.co.uk) | UK web dev agency — bespoke sites, SEO & digital marketing |
+| [FloatWeb](https://floatweb.co.uk) | UK Web and Software Development, bespoke sites, SEO & digital marketing |
 | [MinecraftEarth](https://minecraftearth.org) | Minecraft survival server on a 1:200 scale Earth map |
-| [Armor HUD](https://modrinth.com/mod/armor-hud) | Minecraft mod — visual armor durability overlay |
+| [Armor HUD](https://modrinth.com/mod/armor-hud) | Minecraft mod: visual armor durability overlay |
+
