@@ -14,7 +14,7 @@
 
 ### About
 
-I write software and I run the infrastructure it ships on. Most of my background is building things — Java services, tooling, mods, client sites — but the part I kept gravitating toward was the server it ran on, how it got deployed, and whether I'd find out before anyone else if it fell over.
+I write software and I run the infrastructure it ships on. Most of my background is building things Java services, tooling, mods, client sites but the part I kept gravitating toward was the server it ran on, how it got deployed, and whether I'd find out before anyone else if it fell over.
 
 So these days I work across both: platform and DevOps work with a software engineer's instincts still attached. I know what developers need from a platform because I'm still one of the people asking for it.
 
@@ -40,7 +40,7 @@ Currently open to platform, DevOps and backend roles in the UK or remote.
 
 | Project | What it is |
 |---|---|
-| [FloatWeb](https://floatweb.co.uk) | UK web & software studio I co-run. I build the sites and own the platform behind them — deployments, load balancing, TLS, backups and uptime for real clients. |
+| [FloatWeb](https://floatweb.co.uk) | UK web & software studio I co-run. I build the sites and own the platform behind them deployments, load balancing, TLS, backups and uptime for real clients. |
 | [Armor HUD](https://modrinth.com/mod/armor-hud) | Fabric mod with colour-coded armour durability bars and a drag-to-position UI. 1M+ downloads. A CI/CD pipeline builds, tests and publishes each release across 20 Minecraft versions. |
 | [VantaSpec](https://vantaspec.com) | UK PC hardware price-comparison platform, in development. Interface, search and accounts are built; the open problem is reliable pricing ingest at scale. |
 | [Elytra Swapper](https://modrinth.com/mod/elytra-swapper) | Fabric mod for one-key Elytra/Chestplate swapping. 220k+ downloads across 16 game versions, shipped through the same release pipeline. |
