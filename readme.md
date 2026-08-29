@@ -24,15 +24,15 @@ Currently open to platform, DevOps and backend roles in the UK or remote.
 
 ### Stack
 
-**Languages** — Java · Go · Python · TypeScript · Bash
+**Languages**: Java · Go · Python · TypeScript · Bash
 
-**Backend** — Spring · REST APIs · Maven · Gradle
+**Backend**: Spring · REST APIs · Maven · Gradle
 
-**Infrastructure** — Linux · Docker · Docker Compose · Nginx · Apache · Cloudflare · Coolify
+**Infrastructure**: Linux · Docker · Docker Compose · Nginx · Apache · Cloudflare · Coolify
 
-**CI/CD & Observability** — Jenkins · GitHub Actions · Prometheus · Grafana
+**CI/CD & Observability**: Jenkins · GitHub Actions · Prometheus · Grafana
 
-**Learning** — Kubernetes · Terraform · AWS
+**Learning**: Kubernetes · Terraform · AWS
 
 ---
 
@@ -50,6 +50,6 @@ Currently open to platform, DevOps and backend roles in the UK or remote.
 
 ### Also
 
-I run a small homelab — 3 servers, 20+ containerised services, Prometheus and Grafana for metrics, push alerts on everything. It's where most of what I know about running systems came from.
+I run/maintain 3 servers, 20+ containerised services, Prometheus and Grafana for metrics, push alerts on everything. It's where most of what I know about running systems came from.
 
 My portfolio is part of that: a self-hosted Next.js app in a multi-stage image, pulled by two hosts from a private registry, behind a Cloudflare Tunnel. [Write-up here](https://saolghra.co.uk/blog/how-i-ended-up-in-devops).
