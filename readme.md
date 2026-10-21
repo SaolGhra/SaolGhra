@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://saolghra.co.uk">saolghra.co.uk</a> ·
+  <a href="https://vantaspec.com">VantaSpec</a> ·
   <a href="https://www.linkedin.com/in/spencer-bullock">LinkedIn</a> ·
   <a href="mailto:spencer@floatweb.co.uk">spencer@floatweb.co.uk</a>
 </p>
@@ -40,9 +41,9 @@ Currently open to platform, DevOps and backend roles in the UK or remote.
 
 | Project | What it is |
 |---|---|
+| [VantaSpec](https://vantaspec.com) | UK PC hardware price comparison I founded and build. Prices across UK retailers with price history, a PC builder with compatibility checks, a Black Friday deal checker, an Android app and a [free public API](https://vantaspec.com/api-docs). Next.js, Prisma and MySQL, a scraper that runs from home, Jenkins CI and over-the-air app updates. |
 | [FloatWeb](https://floatweb.co.uk) | UK web & software studio I co-run. I build the sites and own the platform behind them deployments, load balancing, TLS, backups and uptime for real clients. |
 | [Armor HUD](https://modrinth.com/mod/armor-hud) | Fabric mod with colour-coded armour durability bars and a drag-to-position UI. 1M+ downloads. A CI/CD pipeline builds, tests and publishes each release across 20 Minecraft versions. |
-| [VantaSpec](https://vantaspec.com) | UK PC hardware price-comparison platform, in development. Interface, search and accounts are built; the open problem is reliable pricing ingest at scale. |
 | [Elytra Swapper](https://modrinth.com/mod/elytra-swapper) | Fabric mod for one-key Elytra/Chestplate swapping. 220k+ downloads across 16 game versions, shipped through the same release pipeline. |
 | MinecraftEarth | Survival server on a 1:200 scale map of Earth. Folia for regional threading, custom Java plugins, and tuning tick times under real load. Peaked at 102 concurrent players; discontinued. |
 
